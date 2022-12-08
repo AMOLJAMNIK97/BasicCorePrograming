@@ -8,5 +8,6 @@ namespace BasicCore_Programing
 {
     internal class LeapYear
     {
+
     }
 }
